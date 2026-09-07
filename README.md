@@ -6,8 +6,4 @@
 
 ### Tourcat
 - Android 애플리케이션
-- Kotlin + AWS + Call OpenAI.api 
-
-## Currently Learning
-
-Python · Data Analysis · AI / Machine Learning
+- Kotlin + AWS + Call OpenAI.api  
